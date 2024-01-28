@@ -7,10 +7,6 @@ This repository contains a simple JavaScript code for image processing using the
 Tesseract.js: An open-source OCR engine for JavaScript.
 
 ```bash
-  cd test-bhumio
-```
-
-```bash
   npm install
 ```
 
