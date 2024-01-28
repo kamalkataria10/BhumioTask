@@ -1,0 +1,20 @@
+{
+  "name": "bhumio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "node-tesseract-ocr": "^2.2.1",
+    "nodemon": "^3.0.3",
+    "punycode": "^2.3.1",
+    "tesseract.js": "^5.0.4"
+  }
+}
